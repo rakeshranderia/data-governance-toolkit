@@ -1,7 +1,5 @@
 # Data Governance Toolkit
 
-
-
 A practical set of connected frameworks for understanding, governing and using organisational data.
 
 The toolkit is built around three questions:
@@ -13,6 +11,17 @@ The toolkit is built around three questions:
 That becomes:
 
 **Classify → Trace → Govern**
+
+## How this toolkit fits
+
+This repository is deliberately focused on three connected foundations: **classification, lineage and governance decision rights**.
+
+For a broader implementation library covering data quality, access, lifecycle, metrics, maturity, implementation roadmaps and Responsible AI, see the [Data Governance + Responsible AI Framework](https://github.com/rakeshranderia/data-governance-framework).
+
+The two repositories are complementary:
+
+- **Data Governance Toolkit** — focused practical guidance for **Classify → Trace → Govern**
+- **Data Governance + Responsible AI Framework** — broader operating model, implementation guidance, templates, metrics and Responsible AI controls
 
 ## Components
 
