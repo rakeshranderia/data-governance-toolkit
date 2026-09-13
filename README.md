@@ -1,6 +1,6 @@
 # Data Governance Toolkit
 
-> Draft v0.1 — review before publication.
+
 
 A practical set of connected frameworks for understanding, governing and using organisational data.
 
