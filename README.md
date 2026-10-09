@@ -12,6 +12,9 @@ That becomes:
 
 **Classify → Trace → Govern**
 
+> **Status:** Maintained reference toolkit  
+> **Last reviewed:** October 2026
+
 ## How this toolkit fits
 
 This repository is deliberately focused on three connected foundations: **classification, lineage and governance decision rights**.
